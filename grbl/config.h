@@ -52,9 +52,8 @@
 // unpredictable behavior!
 //----------------------------------------------------------------------
 
-#define N_AXIS 5        // Number of axes (3 to 6)
+#define N_AXIS 6        // Number of axes (3 to 6)
 #define N_AXIS_LINEAR 3 // Number of linears axis, must be <= N_AXIS
-
 // Axis indexing and names
 #define AXIS_1 0        // Axis indexing value. Must start with 0 and be continuous.
 #define AXIS_1_NAME 'X' // Axis names must be in X, Y, Z, A, B, C, U, V, W, D, E & H.
@@ -67,11 +66,11 @@
 #endif
 #if N_AXIS > 3
   #define AXIS_4 3
-  #define AXIS_4_NAME 'A' // Letter of axis number 4
+  #define AXIS_4_NAME 'X' // Letter of axis number 4
 #endif
 #if N_AXIS > 4
   #define AXIS_5 4
-  #define AXIS_5_NAME 'B' // Letter of axis number 5
+  #define AXIS_5_NAME 'Z' // Letter of axis number 5
 #endif
 #if N_AXIS > 5
   #define AXIS_6 5
