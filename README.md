@@ -1,7 +1,7 @@
 ![GitHub Logo](https://raw.githubusercontent.com/createhardware/grbl-Mega-5X-custom-boyard/edge/doc/images/Mega-5X-logo.svg) 
 
 ***
-- **IMPORTANT:** Do not use this fork in RAMPS Boyard! It's version to custom hardware.
+- **IMPORTANT:** Do not use this fork in RAMPS Boyard! This is the version for special hardware.
 
 ![Pinout](https://raw.githubusercontent.com/createhardware/grbl-Mega-5X-custom-boyard/edge/doc/images/cnc_boyard_pinout.jpg)
 
