@@ -3,6 +3,8 @@
 ***
 - **IMPORTANT:** Do not use this fork in RAMPS Boyard! It's version to custom hardware.
 
+![Pinout](https://github.com/fra589/grbl-Mega-5X/blob/edge/doc/images/cnc_boyard_pinout.jpg)
+
 ***
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino Mega2560 only.
