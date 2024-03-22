@@ -5,6 +5,8 @@
 
 ![Pinout](https://raw.githubusercontent.com/createhardware/grbl-Mega-5X-custom-boyard/edge/doc/images/cnc_boyard_pinout.jpg)
 
+![Circuit](https://raw.githubusercontent.com/createhardware/grbl-Mega-5X-custom-boyard/edge/doc/images/cnc_mnt_circuit.jpg)
+
 [ATmega2560-Arduino Pin Mapping](https://docs.arduino.cc/retired/hacking/hardware/PinMapping2560/)
 
 ***
