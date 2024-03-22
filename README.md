@@ -5,6 +5,8 @@
 
 ![Pinout](https://raw.githubusercontent.com/createhardware/grbl-Mega-5X-custom-boyard/edge/doc/images/cnc_boyard_pinout.jpg)
 
+[ATmega2560-Arduino Pin Mapping](https://docs.arduino.cc/retired/hacking/hardware/PinMapping2560/)
+
 ***
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino Mega2560 only.
